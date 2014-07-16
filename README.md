@@ -1,5 +1,6 @@
 # emoji-lexicon
 [![NPM](http://img.shields.io/npm/v/emoji-lexicon.svg?style=flat)](https://www.npmjs.org/package/emoji-lexicon)
+[![Travis CI](http://img.shields.io/travis/jonursenbach/emoji-lexicon.svg?style=flat)](https://travis-ci.org/jonursenbach/emoji-lexicon)
 
 A lexicon of all available emoji.
 
