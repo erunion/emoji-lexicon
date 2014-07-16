@@ -1,0 +1,30 @@
+{
+  "name": "emoji-lexicon",
+  "version": "1.0.0",
+  "description": "A lexicon of all available emoji.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonursenbach/emoji-lexicon.git"
+  },
+  "keywords": [
+    "emoji"
+  ],
+  "author": "Jon Ursenbach <jon@ursenba.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonursenbach/emoji-lexicon/issues"
+  },
+  "homepage": "https://github.com/jonursenbach/emoji-lexicon",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-jshint": "^1.7.1",
+    "tap": "^0.4.11"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "tap test/"
+  }
+}
