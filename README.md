@@ -19,6 +19,6 @@ console.log(emoji[10]);
 😌
 ```
 
-## Contributors
+## Credits
 * Emoji in this lexicon was compiled from [@timwhitlock's](https://github.com/timwhitlock) work on [Emoji Unicode Tables
 ](http://apps.timwhitlock.info/emoji/tables/unicode)
