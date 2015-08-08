@@ -2,6 +2,8 @@
 [![NPM](http://img.shields.io/npm/v/emoji-lexicon.svg?style=flat)](https://www.npmjs.org/package/emoji-lexicon)
 [![Travis CI](http://img.shields.io/travis/jonursenbach/emoji-lexicon.svg?style=flat)](https://travis-ci.org/jonursenbach/emoji-lexicon)
 
+**NO LONGER MAINTAINED** &mdash; Use [muan's](https://github.com/muan) [emojilib](https://github.com/muan/emojilib) library instead.
+
 A lexicon of all available emoji.
 
 ## Installation
